@@ -1,4 +1,4 @@
-###CS 330 README by Oliver Flores
+### CS 330 README by Oliver Flores
 
 ### How do I approach designing software?
 
