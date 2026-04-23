@@ -1,0 +1,15 @@
+﻿  MainCode.cpp
+  SceneManager.cpp
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\SceneManager.cpp(224,16): warning C4018: '<': signed/unsigned mismatch
+  ViewManager.cpp
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\ViewManager.cpp(137,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\ViewManager.cpp(138,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\ViewManager.cpp(143,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\ViewManager.cpp(144,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\ViewManager.cpp(147,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\ViewManager.cpp(148,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\ViewManager.cpp(164,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Source\ViewManager.cpp(236,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe not found or not built by the last incremental link; performing full link
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\olive\Documents\SNHU\CS330\Week 7\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
